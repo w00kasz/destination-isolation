@@ -38,7 +38,7 @@ Orange, yellow, purple, white, green. My eyes were amazed the entire time. I jus
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/Southern-California/Antelope-Valley-California-Poppy/i-vZW76tr" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_0153.jpg" src="http://photos.destination-isolation.com/Southern-California/Antelope-Valley-California-Poppy/i-vZW76tr/0/M/DSC_0153-M.jpg" alt="antelope valley; california; desert; greater los angeles; ripley desert woodland; trees The Ripley Desert Woodland is a step back in time, before the Antelop Valley was cleared for farming and ranching." width="600" /></a> The Ripley Desert Woodland is a step back in time, before the Antelop Valley was cleared for farming and ranching.[/caption]
 
 </div>
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Antelope Valley California Poppy Preserve.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Antelope Valley California Poppy Preserve.gpx"]</div>
 <h2>Ripley Desert Woodland State Park - 1 mile, easy</h2>
 The park opens at 9 AM ($10 day use fee) but the poppies do not open until about 10 AM (later if it's cold or windy). When we arrived at 7 AM, all the poppies were curled up as they stood against the strong wind. By 10, the color on the hills was much more intense as the flowers opened to the sunlight. Ecstatic with our experience, we headed West on Lancaster Road to the Ripley Desert Woodland State Park. This land was donated by Arthur Ripley, a former farmer that preserved this small stretch of Joshua Tree and Juniper Forest as it once was and willed it to the state upon his demise. Park along the side of the road and enjoy the 1-mile loop or the shorter 1/3-mile loop, or both. You can acquire a trail guide at the Reserve's Visitor Center or at the trailhead.
 
@@ -52,7 +52,7 @@ On Sunday, we headed to the nearby and infrequently visited Saddleback Butte Sta
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/Southern-California/Antelope-Valley-California-Poppy/i-BhjcQgS" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_0191.jpg" src="http://photos.destination-isolation.com/Southern-California/Antelope-Valley-California-Poppy/i-BhjcQgS/0/M/DSC_0191-M.jpg" alt="antelope valley; california; desert; greater los angeles; indian museum; native american How did they cut the boards to the right shape? :)" width="600" /></a> How did they cut the boards to the right shape? :)[/caption]
 
 </div>
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Saddleback Butte SP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Saddleback Butte SP.gpx"]</div>
 <h2>Antelope Valley Indian Museum State Historic Park - 1-2 hours</h2>
 Nearby is the Antelope Valley Indian Museum State Historic Park. The museum houses artifacts collected by the original proprietor, Howard Arden Edwards, as well as his successor, Grace Wilcox Oliver.  A $3 day use fee allows you access to the museum and the grounds. Allow 1-2 hours for this side-trip, depending on your level of interest.
 

@@ -90,7 +90,7 @@ As we approached the parking lot we saw 3 hikers, the first since yesterday’s 
 	<li><a title="Pacheco State Park" href="http://destination-isolation.com/pacheco-state-park/">Pacheco State Park</a> -</li>
 </ul>
 For more state park adventure, visit our <a title="California State Parks" href="http://destination-isolation.com/regional-guides/california-state-parks/">California State Park Guide</a>.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Raven Pond - Henry W. Coe SP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Raven Pond - Henry W. Coe SP.gpx"]</div>
 <img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--3774" alt="" />
 
 <span class="Apple-style-span" style="line-height: normal;"> </span>

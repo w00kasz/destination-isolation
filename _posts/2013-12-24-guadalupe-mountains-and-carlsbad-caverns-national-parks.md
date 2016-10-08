@@ -53,7 +53,7 @@ bbm_include:
 
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/Mountain-Time-Zone/Guadalupe-Mountains-NP/i-RJqSKJP" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_0047 (2).jpg" src="http://photos.destination-isolation.com/Mountain-Time-Zone/Guadalupe-Mountains-NP/i-RJqSKJP/0/M/DSC_0047%20%282%29-M.jpg" alt="guadalupe mountains national park; texas If you have time, there are many miles of trail in the park." width="600" /></a> If you have time, there are many miles of trail in the park.[/caption]
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Guadalupe Peak and El Capitan - Guadalupe NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Guadalupe Peak and El Capitan - Guadalupe NP.gpx"]</div>
 <h3 style="text-align: left;"><strong>Guadalupe Mountains: McKittrick Canyon - 7.5 miles, moderate</strong></h3>
 <p style="text-align: left;">Worn out by your El Capitan expedition, you may need something easier the following day. McKittrick Canyon is the perfect choice. It is flat and short, terminating in a grotto. The entrance for McKittrick Canyon is a few miles North of the main entrance and the gate closes promptly at 4:30 pm so don’t get stuck inside or you will need to call the Sheriff and I do not imagine he would be happy.</p>
 
@@ -62,14 +62,14 @@ bbm_include:
 
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/Mountain-Time-Zone/Guadalupe-Mountains-NP/i-9Sps6Tm" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_0057 (2).jpg" src="http://photos.destination-isolation.com/Mountain-Time-Zone/Guadalupe-Mountains-NP/i-9Sps6Tm/0/M/DSC_0057%20%282%29-M.jpg" alt="guadalupe mountains national park; river; texas We headed into McKittrick Canyon for an afternoon hike. The shade of the canyon walls was welcome during the heat of the day." width="600" /></a> We headed into McKittrick Canyon for an afternoon hike. The shade of the canyon walls was welcome during the heat of the day.[/caption]
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/McKittrick Canyon - Guadalupe NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/McKittrick Canyon - Guadalupe NP.gpx"]</div>
 <h3 style="text-align: left;"><strong>Guadalupe Mountains NP: Devils Hall - 4.5 miles, moderate </strong></h3>
 <p style="text-align: left;">Devil’s Hall is another good choice. Starting at the Guadalupe Peak Trailhead follow the signs. Make sure you take the stock trail, as otherwise you’ll gain unnecessary elevation before descending into Pine Springs Canyon. The NPS guide claims this hike is easy. It’s not strenuous, but you have to watch your footing as you make your way around and over many boulders. This was especially tricky due to the ice. You’ll be rewarded with a unique, narrow, high-walled rift. You can keep hiking up the canyon for quite a ways, so turn around if you’re not interested in an all-day hike.</p>
 
 
 [caption id="" align="aligncenter" width="298"]<a href="http://photos.destination-isolation.com/Mountain-Time-Zone/Guadalupe-Mountains-NP/i-Gbb67TR" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_0078 (2).jpg" src="http://photos.destination-isolation.com/Mountain-Time-Zone/Guadalupe-Mountains-NP/i-Gbb67TR/0/M/DSC_0078%20%282%29-M.jpg" alt="Sharon; devils hall; guadalupe mountains national park; texas Near the end of the &quot;trail&quot;, the hall was neat but I would not want to be caught here during a flood." width="298" /></a> Near the end of the "trail", the hall was neat but I would not want to be caught here during a flood.[/caption]
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Devils Hall - Guadalupe NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Devils Hall - Guadalupe NP.gpx"]</div>
 <div align="center"></div>
 <div style="text-align: left;" align="center">For more national park adventures, visit our <a title="National Park Service" href="http://destination-isolation.com/regional-guides/national-park-service/">National Park Service Guide</a>.</div>
 <div style="text-align: left;" align="center"></div>

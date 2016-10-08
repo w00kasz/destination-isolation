@@ -75,5 +75,5 @@ Just before mile 2, stands an abandoned lookout station. The two rooms are open 
 Camping by Fordyce Lake will not afford you solitude due to the rather heavy off-road traffic. We shared the trail up to Signal Peak with dirt-bikes (though doable I don't recommend taking your truck unless you really know what you're doing). However, the area was quite pretty and we had the lake to ourselves while kayaking.
 
 For more national forest adventures, visit our <a title="US Forest Service" href="http://destination-isolation.com/regional-guides/us-forest-service/">U.S. Forest Service Agency Guide</a>.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Signal Peak - Tahoe National Forest.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Signal Peak - Tahoe National Forest.gpx"]</div>
 <img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--1808" alt="" />

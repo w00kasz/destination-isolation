@@ -83,7 +83,7 @@ As we approached the trailhead, we watched an SAR helicopter, equipped with a gu
 
 [caption id="" align="aligncenter" width="397"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/woods-creek-trail-kings-canyon-np/woods_creek-king_cyn-31.jpg" alt="DSC_0210_v2.jpg" width="397" height="600" /> The General Grant[/caption]
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Woods Creek Trail - Kings Canyon NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Woods Creek Trail - Kings Canyon NP.gpx"]</div>
 <h2><strong>General Grant Tree and Grant Grove Village</strong></h2>
 We made a quick stop to see the General Grant Tree. Though not the largest tree in the world (it's the 3rd), this 1,700 year old giant sequoia has a larger base diameter than General Sherman. The grove is filled with ancient giants. Among them, the Fallen Monarch, a hollowed out, downed trunk was large enough to house people and stable horses. Again, the park has a way of making visitors feel small.
 

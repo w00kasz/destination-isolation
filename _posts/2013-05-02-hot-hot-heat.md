@@ -69,7 +69,7 @@ Though the park map claims no elevation gain, there isn't exactly true. Though n
 According to my GPS, the trail was much shorter than the 2.9 miles indicated by the park map. In fact from the point where fire road turned into path, it was only about 2.1 miles.
 
 Even though this trip to the Pinnacles was as hot and as fulfilling as always, it left one bit to be desired. A major objective in re-visiting the park was to obtain a collectible park map with "Pinnacles National Park" written across the cover. You know the one I'm talking about. Yes, the one with the black strip and name of the park written in white letters at top, a picture of some iconic sight in the park below, and filled with bits of information about the site. Well it seems the process of moving from National Monument to National Park status may take some time. On the bright side, this is all the more reason to go back in the future.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/High Peaks and S. Wilderness Trails - Pinnacles NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/High Peaks and S. Wilderness Trails - Pinnacles NP.gpx"]</div>
 <h3 style="text-align: left;" align="center">For more national park adventure, visit our <a title="National Park Service" href="http://destination-isolation.com/regional-guides/national-park-service/">National Park Service Guide</a>.</h3>
 &nbsp;
 

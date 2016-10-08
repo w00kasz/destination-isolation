@@ -63,7 +63,7 @@ The trails loops back around descending quickly to the trailhead, finishing the�
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/California-Cascades/Warner-Valley-Lassen-Volcanic-NP/i-DMKh44R" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_0770.jpg" src="http://photos.destination-isolation.com/California-Cascades/Warner-Valley-Lassen-Volcanic-NP/i-DMKh44R/0/M/DSC_0770-M.jpg" alt="Cascade Mountains; Lassen Volcanic National Park; california; devils kitchen; geology; geothermal Steaming mud pots all around us." width="600" /></a> Steaming mud pots all around us.[/caption]
 
 </div>
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Mt Harkeness - Lassen Volcanic NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Mt Harkeness - Lassen Volcanic NP.gpx"]</div>
 <h2><strong style="font-family: sans-serif; font-size: medium; font-style: normal;">Boiling Springs Lake, Terminal Geyser, Devils Kitchen - 11 miles, moderate</strong></h2>
 To complete the hydrothermal area challenge, we hiked out past Boiling Springs Lake to Terminal Geyser (a steam vent, not a true geyser). The day was hot but the hike was mild. From there, we backtracked along the Pacific Crest Trail and then headed to the Devil's Kitchen. This hot, bubbling area was worth the moderate hike.
 
@@ -74,7 +74,7 @@ Our topo map showed hot springs along the trail to the South of Dream Lake, but 
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/California-Cascades/Warner-Valley-Lassen-Volcanic-NP/i-7ZHvGQn" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_0787.jpg" src="http://photos.destination-isolation.com/California-Cascades/Warner-Valley-Lassen-Volcanic-NP/i-7ZHvGQn/0/M/DSC_0787-M.jpg" alt="Cascade Mountains; Lassen Volcanic National Park; california A small resort in Warner Valley. Pay for beer on the honor system." width="600" /></a> A small resort in Warner Valley. Pay for beer on the honor system.[/caption]
 
 The meadow near the trailhead is also home to Drakesbad, a small resort. This is mile 1,400 on the Pacific Crest Trail as the restaurant proudly states. They also have a small store which sells <strong>Sierra Nevada beer</strong> and soda, if you are into that kind of thing.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Terminal Geyser, Devils Kitchen - Lassen Volcanic NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Terminal Geyser, Devils Kitchen - Lassen Volcanic NP.gpx"]</div>
 <h3>Other Hikes in Lassen Volcanic National Park:</h3>
 <ul>
 	<li><a title="Bumpass Hell" href="http://destination-isolation.com/misadventures-in-bumpass-hell-lassen-volcanic-national-park/" target="_blank">Bumpass Hell</a> - via Mill Creek Falls, 13 miles, strenuous</li>

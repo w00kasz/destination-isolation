@@ -69,6 +69,6 @@ While the waterfalls are nice, I think that the Knibbs Knob trail is the highlig
 
 Happy hiking and please remember, don't litter. Not only does garbage detract from the natural beauty of the park for those that visit after you, but it is also bad for the local wildlife. Even something like an orange peel can take years to fully decompose.
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Uvas Canyon CP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Uvas Canyon CP.gpx"]</div>
 
 <img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--3963" alt="" />

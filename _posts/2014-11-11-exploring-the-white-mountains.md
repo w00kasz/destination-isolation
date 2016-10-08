@@ -46,7 +46,7 @@ There are two shorter trails in the Schulman Grove area; the Discovery Trail loo
 Make sure to check out the visitor center and view the 19-minute film about how important the bristlecones are to science. You can also pay your visitor fees here ($3 per person or $6 per vehicle) which help protect the groves.
 
 12 unpaved miles further up White Mountain Road lies the Patriarch Grove. At 11,000 feet of elevation, where little grows, this grove is another testament to the resilience of the bristlecones.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Methuselah Walk.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Methuselah Walk.gpx"]</div>
 <h2 style="text-align: left;" align="center">Where to Stay</h2>
 <div align="center"></div>
 

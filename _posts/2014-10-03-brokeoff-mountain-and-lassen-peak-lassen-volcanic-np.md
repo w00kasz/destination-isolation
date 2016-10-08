@@ -42,21 +42,21 @@ Turned out this was a great idea. We had the summit to ourselves and had plenty 
 If you plan on heading up this early, it is very important that you are ready for cold, windy weather. Keep moving as you'll cool down quickly when you stop. Wear layers and take them off as you warm up on the way up as a sweaty body is a good way to get hypothermia. As a luxury, think about leaving a thermos of hot tea, or another beverage in your car for after the hike.
 
 As we headed down, we ran into the trail crews which were slowly starting their workday and got back to a quickly filling parking lot. Had we started a few hours later, we'd be following a line of people up the mountain.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Lassen Peak - Lassen Volcanic NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Lassen Peak - Lassen Volcanic NP.gpx"]</div>
 <h2>Kings Falls Trail - 5 miles, moderate</h2>
 [caption id="" align="aligncenter" width="300"]<a href="http://photos.destination-isolation.com/California-Cascades/Lassen-Peak-Area-Brokeoff-Mounta/i-6wbHmpz" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_2348.jpg" src="http://photos.destination-isolation.com/California-Cascades/Lassen-Peak-Area-Brokeoff-Mounta/i-6wbHmpz/0/M/DSC_2348-M.jpg" alt="Cascade Mountains; Lassen Volcanic National Park; california; kings falls; national park; waterfall Even though the area is rather dry, the Kings Creek Falls still put on a good show. Maybe all the rain helped a bit." width="300" /></a> Even though the area is rather dry, the Kings Creek Falls still put on a good show. Maybe all the rain helped a bit.[/caption]
 
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/California-Cascades/Lassen-Peak-Area-Brokeoff-Mounta/i-drZGCDX" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_2368.jpg" src="http://photos.destination-isolation.com/California-Cascades/Lassen-Peak-Area-Brokeoff-Mounta/i-drZGCDX/0/M/DSC_2368-M.jpg" alt="Cascade Mountains; Lassen Volcanic National Park; Sharon; california; national park Sharon took a break to identify the surrounding features." width="600" /></a> Sharon took a break to identify the surrounding features.[/caption]
 
 Since we had started so early, we now had plenty of daylight to hike more. While clouds loomed around Lassen Peak, the Kings Falls Trails was mostly sunny. We did a 5-mile loop that took us to lakes and waterfalls. Though the year had been dry, the fall was still impressive, possibly rejuvenated by the recent rains. The hike along Kings Creek was gorgeous, though, unfortunately a section was closed due to dangerous conditions. The equestrian route climbed earlier and provided stunning views into Warner Valley. Elevation on this hike was minimal but there was one tough climb as we headed back to the car.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Kings Falls - Lassen Volcanic NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Kings Falls - Lassen Volcanic NP.gpx"]</div>
 <h2>Ridge Lakes - 2 miles, moderate</h2>
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/California-Cascades/Lassen-Peak-Area-Brokeoff-Mounta/i-PrtCjGv" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_2405-Edit.jpg" src="http://photos.destination-isolation.com/California-Cascades/Lassen-Peak-Area-Brokeoff-Mounta/i-PrtCjGv/0/M/DSC_2405-Edit-M.jpg" alt="Cascade Mountains; Lassen Volcanic National Park; Ridge Lakes; california; lake; national park A steep, 100o foot over 1 mile, climb leads to what may be the prettiest sight in Lassen Volcanic National Parks. Ridge Lakes are well worth the huffing and puffing." width="600" /></a> A steep, 100o foot over 1 mile, climb leads to what may be the prettiest sight in Lassen Volcanic National Parks. Ridge Lakes are well worth the huffing and puffing.[/caption]
 
 This hike starts at the Sulfur Works Parking Area. While it's only about a mile from the trailhead to the top of the ridge crest, it is a very steep hike (1,000 feet of elevation gain) and the muddy trail made sections more challenging. Watch your footing!
 
 The burn in your quads and all the huffing and puffing will be rewarded by arguably the prettiest lake scene in the park. The beauty of the calm, shallow lakes reflecting the surrounding ridges was only accentuated by the expressive sky.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Ridge Lakes - Lassen Volcanic NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Ridge Lakes - Lassen Volcanic NP.gpx"]</div>
 <h2>Brokeoff Mountain - 7.4 miles, strenuous</h2>
 Brokeoff is certainly a tougher hike than Lassen Peak in every sense of the word. The trail is longer, steeper, and with more elevation gain. Why is this mountain often forsaken for its better known neighbor? Likely because it hangs 1,200 feet further from outer space.
 
@@ -65,7 +65,7 @@ Brokeoff is certainly a tougher hike than Lassen Peak in every sense of the word
 You won't be doing yourself any favors if you forgo this hike though. The meadows and forest of the first section are tranquil. The second, steeper half affords you great views of the park and into the Northernmost regions of the Sierra Nevada. The peak itself is just as impressive as I was quite stricken with the jagged rocky outcrops veiled by thick mist.
 
 As a benefit, since most visitors flock to the more popular Lassen, you're more likely to be alone on the hike.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Brokeoff Mountain - Lassen Volcanic NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Brokeoff Mountain - Lassen Volcanic NP.gpx"]</div>
 &nbsp;
 <h3>Other Hikes in Lassen Volcanic National Park:</h3>
 <ul>

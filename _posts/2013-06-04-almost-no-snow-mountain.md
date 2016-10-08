@@ -86,7 +86,7 @@ The increase in conifers meant that we were getting closer to the end and soon e
 The hiking was rather strenuous. Besides on the roads outside the wilderness and near the summit, we didn’t see anyone else on trail; a major goal of many of our trails (this is Destination Isolation). The scenery and changing vegetation were enough to satisfy my aesthetic cravings. So what are you waiting for? Get working on your next trip!
 
 For more national forest adventures, visit our <a title="US Forest Service" href="http://destination-isolation.com/regional-guides/us-forest-service/">U.S. Forest Service Agency Guide</a>.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Snow Mountain - Mendocino NF.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Snow Mountain - Mendocino NF.gpx"]</div>
 <img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--3719" alt="" />
 
 <span style="color: #000000;"><span class="Apple-style-span" style="line-height: normal;">

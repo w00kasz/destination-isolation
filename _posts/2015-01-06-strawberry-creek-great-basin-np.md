@@ -32,7 +32,7 @@ The Osceola Ditch is 18 miles in its entirety and was build to help with the gol
 You can also hike the ditch from the <a title="Wheeler Peak Area: Great Basin NP" href="http://destination-isolation.com/wheeler-peak-area-great-basin-np/">Wheeler Peak Day Use Area.</a>
 
 To learn more about Osceola Ditch, visit the <a title="Osceola Ditch" href="http://www.nps.gov/grba/historyculture/the-osceola-ditch.htm" target="_blank">NPS website</a>.
-<div align="center">[map style="width: auto; height:400px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Osceola Ditch.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Osceola Ditch.gpx"]</div>
 <h3><span style="text-decoration: underline;">Sage Steppe</span></h3>
 Sage Steppe Loop is 1.2 miles and has less than 300 feet of elevation gain. If you are up for a longer hike, we recommend that you combine this loop with your hike through the Osceola Ditch.
 
@@ -52,7 +52,7 @@ Visit our <a title="National Park Service" href="http://destination-isolation.co
 	<li><a title="Wheeler Peak Area: Great Basin NP" href="http://destination-isolation.com/wheeler-peak-area-great-basin-np/">Wheeler Peak Day Use Area</a></li>
 	<li><a title="South Snake Range: Great Basin NP" href="http://destination-isolation.com/south-snake-range-great-basin-np/">South Snake Range</a></li>
 </ul>
-<div align="center">[map style="width: auto; height:400px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Windy Canyon - Great Basin NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Windy Canyon - Great Basin NP.gpx"]</div>
 <div align="center"></div>
 <div align="center"><object id="ssidx" width="400" height="400" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://cdn.smugmug.com/ria/ShizamSlides-2013072402.swf" /><param name="flashVars" value="AlbumID=46313839&amp;AlbumKey=L8fG7P&amp;transparent=true&amp;bgColor=&amp;borderThickness=&amp;borderColor=&amp;useInside=&amp;endPoint=&amp;mainHost=cdn.smugmug.com&amp;VersionNos=2013072402&amp;showLogo=false&amp;width=400&amp;height=400&amp;clickToImage=true&amp;captions=true&amp;showThumbs=true&amp;autoStart=true&amp;showSpeed=true&amp;pageStyle=black&amp;showButtons=true&amp;randomStart=false&amp;randomize=true&amp;splash=&amp;splashDelay=0&amp;crossFadeSpeed=350" /><param name="wmode" value="transparent" /><param name="allowNetworking" value="all" /><param name="allowScriptAccess" value="always" /><embed src="http://cdn.smugmug.com/ria/ShizamSlides-2013072402.swf" flashvars="AlbumID=46313839&amp;AlbumKey=L8fG7P&amp;transparent=true&amp;bgColor=&amp;borderThickness=&amp;borderColor=&amp;useInside=&amp;endPoint=&amp;mainHost=cdn.smugmug.com&amp;VersionNos=2013072402&amp;showLogo=false&amp;width=400&amp;height=400&amp;clickToImage=true&amp;captions=true&amp;showThumbs=true&amp;autoStart=true&amp;showSpeed=true&amp;pageStyle=black&amp;showButtons=true&amp;randomStart=false&amp;randomize=true&amp;splash=&amp;splashDelay=0&amp;crossFadeSpeed=350" width="400" height="400" wmode="transparent" type="application/x-shockwave-flash" allowscriptaccess="always" allownetworking="all" /></object></div>
 &nbsp;

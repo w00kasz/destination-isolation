@@ -70,5 +70,5 @@ We'll make it a point to come back in March, maybe with some more powerful binoc
 Another great spot to watch the whales is<a title="The Whale of MacKerricher State Park" href="http://destination-isolation.com/the-whale-of-mackerricher-state-park/"> MacKerricher State Park</a>.
 
 For more national park adventures, visit our <a title="National Park Service" href="http://destination-isolation.com/regional-guides/national-park-service/">National Park Service Guide</a>.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Point Reyes NS - Whale Watching.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Point Reyes NS - Whale Watching.gpx"]</div>
 <img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--3974" alt="" />

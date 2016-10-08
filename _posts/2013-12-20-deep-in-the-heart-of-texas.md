@@ -76,10 +76,10 @@ bbm_include:
 <p style="text-align: left;">Everyone knows that you have to go to Guadalupe Mountains National Park and Carlsbad Caverns National Park after Big Bend. If you need to stretch your legs or pee on the way, stop at Fort Davis National Historic Site. The place isn’t much more than refurbished buildings in a pretty landscape but there are lessons to be had. The US used the post to “protect” citizens from Native Americans as they headed West.</p>
 
 <div align="center"><strong>The Chimneys</strong></div>
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/The Chimneys - Big Bend NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/The Chimneys - Big Bend NP.gpx"]</div>
 <div align="center"></div>
 <div align="center"><strong>Cattail Falls</strong></div>
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Cattail Falls - Big Bend NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Cattail Falls - Big Bend NP.gpx"]</div>
 <div align="center"></div>
 <div style="text-align: left;" align="center">For more national park adventure, visit our <a title="National Park Service" href="http://destination-isolation.com/regional-guides/national-park-service/">National Park Service Guide</a>.</div>
 <div style="text-align: left;" align="center"></div>

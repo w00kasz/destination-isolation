@@ -81,7 +81,7 @@ poidb_access_key:
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/daves-17th-annual-desert-trip/daves-17-desert-trip-78.jpg" alt="DSC_0260.jpg" width="600" height="548" /> Lesser Mohavae?[/caption]
 <p style="text-align: left;">Tonight was also the night that the desert flamingos infiltrated our camp. One by one they appeared. On the hillside. Next to a car. One even made a home out of our tent vestibule. Soon enough a dozen of these pink plastic creatures were scattered around camp resting on their metal wire legs. Where did they come from? As if Frank didn't have enough "gear" in his truck, he carried a box of 20 of them in the back. Excessive? Maybe. Delightful? Certainly!</p>
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Epsom Salt Works - Anza-Borrego SP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Epsom Salt Works - Anza-Borrego SP.gpx"]</div>
 <h2 style="text-align: left;"><span style="text-decoration: underline;">Saratoga Springs</span></h2>
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/daves-17th-annual-desert-trip/daves-17-desert-trip-46.jpg" alt="DSC_0161.jpg" width="600" height="355" /> The endemic Death Valley Pupfish[/caption]
 <p style="text-align: left;">On our way back towards pavement and fuel we stopped at Saratoga Spring where a surprisingly large pool of water served as habitat for the Death Valley Pupfish. These tiny creatures are endemic to the area and so were truly amazing to see. I would think very few visitors to the park see them first hand. We ate with the sweeping sands of the Ibex Dunes in view.</p>
@@ -101,7 +101,7 @@ poidb_access_key:
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/daves-17th-annual-desert-trip/daves-17-desert-trip-64.jpg" alt="DSC_0224.jpg" width="600" height="397" /> Grades leading to Oakley Mine[/caption]
 <p style="text-align: left;">The hike terminated at the Widow Mine where we found giant pit after giant pit. The railroad definitely ended here; and how!</p>
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Grandview and Widow Mines - Death Valley NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Grandview and Widow Mines - Death Valley NP.gpx"]</div>
 <h2 style="text-align: left;"><span style="text-decoration: underline;">Hole-In-The-Wall</span></h2>
 <p style="text-align: left;">Hole in the Wall is definitely something else. After driving through a road in a wash, surrounded by blooming wildflowers, the geographic marvel appears as a gateway to a fantasy land, all that much more impressive dressed in the colors of the setting sun.</p>
 
@@ -142,7 +142,7 @@ poidb_access_key:
 
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/daves-17th-annual-desert-trip/daves-17-desert-trip-131.jpg" alt="DSC_0508.jpg" width="600" height="389" /> Battie and Faustie become friends[/caption]
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Darwin Falls - Death Valley NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Darwin Falls - Death Valley NP.gpx"]</div>
 <h2 style="text-align: left;"><span style="text-decoration: underline;">Little Petroglyph Canyon</span></h2>
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/daves-17th-annual-desert-trip/daves-17-desert-trip-150.jpg" alt="DSC_0224 (2).jpg" width="600" height="410" /> Which way to Little Petroglyph Canyon?[/caption]
 <p style="text-align: left;">Individuals from Friends of Last Chance Canyon were meeting us to escort us through the China Lake Naval Air Weapons Center on a tour of the Native American petroglyphs.</p>
@@ -160,7 +160,7 @@ poidb_access_key:
 
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/daves-17th-annual-desert-trip/daves-17-desert-trip-144.jpg" alt="DSC_0044 (2).jpg" width="600" height="373" /> R.I.P. Faustie :,( haha jk[/caption]
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Little Petroglyph Canyon.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Little Petroglyph Canyon.gpx"]</div>
 <p style="text-align: left;">Since moving to California, Sharon and I had probably spent about 2 months in and around Death Valley. Though this may seem like a long period of time to the casual visitor, I feel we have seen only a tiny fraction of what the park has to offer. This is not to even mention the rest of the Mojave and Sonoran Deserts</p>
 
 <h3>More Trip Reports from Death Valley National Park</h3>

@@ -62,7 +62,7 @@ We had originally planned on taking a little side trip up the Rocky Ridge Trail 
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/rosy-cheeks-ohlone-regional-wilderness/rose_peak-ohlone-21.jpg" alt="rose_peak-ohlone-21.jpg" width="600" height="397" /> Tasty snack[/caption]
 
 With 15 miles of the Ohlone Wilderness trail stretching between Mission Peak and Rose Peak unexplored, and with numerous side trails I am certain we'll be back again. Del Valle Regional Park itself has many more miles of trail to offer. Many of these are open to mountain bikes, and the lake seems very suitable to paddling. Can't wait! Happy hiking.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Rose Peak - Ohlone Regional Wilderness.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Rose Peak - Ohlone Regional Wilderness.gpx"]</div>
 <img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--3929" alt="" />
 
 For more information and adventure ideas in the area, please visit our page: <a title="East Bay RPD" href="http://destination-isolation.com/regional-guides/east-bay-rpd/">East Bay Regional Park District</a>

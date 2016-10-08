@@ -47,7 +47,7 @@ The hike to the caves is less than <strong>2 miles round-trip</strong>, but plan
 [caption id="" align="aligncenter" width="298"]<a href="http://photos.destination-isolation.com/Southern-California/Fish-Creek-Area-Anza-Borrego-Des-1/i-2Jkrp7f" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_0483.jpg" src="http://photos.destination-isolation.com/Southern-California/Fish-Creek-Area-Anza-Borrego-Des-1/i-2Jkrp7f/0/M/DSC_0483-M.jpg" alt="anzaborrego desert state park; california; desert Impressive mud formations with lots of slot canyons." width="298" /></a> Impressive mud formations with lots of slot canyons.[/caption]
 
 </div>
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Wind Caves - Anza-Borrego SP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Wind Caves - Anza-Borrego SP.gpx"]</div>
 <h2><strong>Mud Palisades</strong></h2>
 East of the Wind Caves you will find the Mud Palisades. Who knows where these impressive sandstone formations got their name. It could have been from the Palisades of the Hudson River, or perhaps of the Sierra Nevada. Whatever the etymology, they are worth the drive or hike up Olla Wash. There are plenty of <strong>slot canyons</strong> to explore there as well.
 

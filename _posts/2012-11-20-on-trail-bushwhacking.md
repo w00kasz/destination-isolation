@@ -66,7 +66,7 @@ Even during the rainy season, water can be sparse.
 Though we didn't see the ocean or the greatest of California's mountain ranges, the views were spectacular, and in fact often reminiscent of the Sierras themselves. Jagged peaks and massive rock slabs made us feel as if though we were in Yosemite. We also managed to find solitude. Beside a couple hikers heading down as we started our trek, we didn't see anyone until we were almost back at the trailhead. We'd say we reached Destination Isolation on this one.
 
 For more national forest adventures, visit our <a title="US Forest Service" href="http://destination-isolation.com/regional-guides/us-forest-service/">U.S. Forest Service Agency Guide</a>.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Junipero Serra Peak.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Junipero Serra Peak.gpx"]</div>
 &nbsp;
 
 <img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--4511" alt="" />

@@ -59,5 +59,5 @@ For the first time this trip, we came across on-duty backcountry rangers. We had
 	<li><a title="Two Medicine: Glacier National Park" href="http://destination-isolation.com/glacier-two-medicine/">Two Medicine</a></li>
 </ul>
 <h3>For more national park adventure, visit our <a title="National Park Service" href="http://destination-isolation.com/regional-guides/national-park-service/">National Park Service Guide</a>.</h3>
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Upper Kintla Lake - Glacier NP - July 2013.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Upper Kintla Lake - Glacier NP - July 2013.gpx"]</div>
 <p style="text-align: left;"><img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--3361" alt="" /></p>

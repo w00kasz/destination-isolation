@@ -52,7 +52,7 @@ At the next junction, head left down Greenside Road, instead of continuing to th
 The steep trails were easier to jog down rather than forcefully slow down, <strong>hiking poles are advised</strong> for those with weak knees.
 
 If the weather is cooperating, take the scenic Mines Road; it is winding and long but take you up Mount Hamilton.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Murietta Falls - Ohlone Regional Wilderness.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Murietta Falls - Ohlone Regional Wilderness.gpx"]</div>
 <img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--4508" alt="" />
 
 For more information and adventure ideas in the area, please visit our page: <a title="East Bay RPD" href="http://destination-isolation.com/regional-guides/east-bay-rpd/">East Bay Regional Park District</a>

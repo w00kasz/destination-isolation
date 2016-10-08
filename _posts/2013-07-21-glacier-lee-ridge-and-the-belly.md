@@ -62,6 +62,6 @@ poidb_access_key:
 	<li><a title="North Fork of the Flathead River: Glacier National Park" href="http://destination-isolation.com/glacier-north-fork-of-the-flathead-river/">The North Fork - Kintla Lakes</a></li>
 </ul>
 For more national park adventure, visit our <a title="National Park Service" href="http://destination-isolation.com/regional-guides/national-park-service/">National Park Service Guide</a>.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Lee Ridge and The Belly - Glacier NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Lee Ridge and The Belly - Glacier NP.gpx"]</div>
 &nbsp;
 <p style="text-align: left;"><img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--3357" alt="" /></p>

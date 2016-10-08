@@ -57,7 +57,7 @@ dsq_thread_id:
 <p style="text-align: left;">As we drove home, we were impressed by the colors displayed by the trees along the Kern River near Lake Isabella. The oaks took on the most vibrant shades. Who said you need to go to Maine to see fall colors?</p>
 <p style="text-align: left;">Seeing so much, we left the majority of Death Valley unexplored. As desert trips have become somewhat of a late Fall tradition, we’re sure we’ll be back to discover more of the beautiful country.</p>
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Grandstand and Ubehebe Peak.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Grandstand and Ubehebe Peak.gpx"]</div>
 <h3>More Trip Reports from Death Valley National Park</h3>
 <ul>
 	<li><a title="Eureka Valley" href="http://destination-isolation.com/death-valley-eureka-dunes/">Eureka Valley</a></li>

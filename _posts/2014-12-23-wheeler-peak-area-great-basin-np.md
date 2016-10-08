@@ -32,7 +32,7 @@ The trail also crosses Osceola Ditch, built to divert water from Lehman Creek to
 For those of you wishing to explore the Wheeler Peak Day Use Area in the winter, we recommend backpacking into Wheeler Peak campground. Water is not available through the facets and the creek may be partially frozen on the surface. Bring plenty of fuel to melt snow or carry extra water. The pit toilets remain open for your pooping convenience.
 
 <em>Hint: Backcountry permits are not required but come HIGHLY recommended. They let the rangers know where you'll be in case of emergency. They are free and obtainable at the Visitor Centers.</em>
-<div align="center">[map style="width: auto; height:400px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Wheeler TH to Upper Lehman TH - Great Basin NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Wheeler TH to Upper Lehman TH - Great Basin NP.gpx"]</div>
 <h3><span style="text-decoration: underline;">The Bristlecone Forest and Rock Glacier</span></h3>
 A rock glacier is, as defined by the National Park Service, "a lobe of angular boulders and cobbles that resembles an alpine glacier in outline and in its slow downslope movement. They are found in mountain ranges throughout the world. Inside a rock glacier, ice fills the spaces between the blocks. By freezing, thawing, and sagging, the ice works with gravity to provide the force that moves the rock glacier."
 
@@ -52,7 +52,7 @@ If you are comfortable hiking in the dark (and do not mind skipping the Bristlec
 
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/Southwest/Great-Basin-National-Park/Wheeler-Peak-Day-Use-Area/i-N4sf9Zz" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_3758.jpg" src="http://photos.destination-isolation.com/Southwest/Great-Basin-National-Park/Wheeler-Peak-Day-Use-Area/i-N4sf9Zz/0/M/DSC_3758-M.jpg" alt="Great Basin National Park; nevada At the end of the Rock Glacier Trail, be sure to turn around and take in the Snake Range." width="600" /></a> At the end of the Rock Glacier Trail, be sure to turn around and take in the Snake Range.[/caption]
 
-<div align="center">[map style="width: auto; height:400px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Rock Glacier - Great Basin NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Rock Glacier - Great Basin NP.gpx"]</div>
 <h3><span style="text-decoration: underline;">Wheeler Peak</span></h3>
 [caption id="" align="aligncenter" width="600"]<a href="http://photos.destination-isolation.com/Southwest/Great-Basin-National-Park/Wheeler-Peak-Day-Use-Area/i-Bs9cCSK" target="_blank"><img class="aligncenter" style="border: 1px solid black;" title="DSC_3775.jpg" src="http://photos.destination-isolation.com/Southwest/Great-Basin-National-Park/Wheeler-Peak-Day-Use-Area/i-Bs9cCSK/0/M/DSC_3775-M.jpg" alt="Great Basin National Park; Wheeler Peak; nevada A closer view of Wheeler Peak." width="600" /></a> A closer view of Wheeler Peak.[/caption]
 
@@ -91,7 +91,7 @@ The Alpine Lakes Loop Trail will take you past Stella and Teresa Lakes, both of 
 These lakes are scientifically important because they contain phytoplankton, zooplankton, and aquatic insects as well as prehistoric pollen and volcanic rock sediments. They freeze almost completely during the winter since they are shallow. On a warm day, find a log along the trail to enjoy a mid-hike snack.
 <h3><span style="text-decoration: underline;">Island Forest Nature Trail</span></h3>
 The Island Forest Nature Trail is just a quarter mile in length and is accessible from the Wheeler Peak Campground. Complete this hike on its own or combine it with other hikes on the mountain. The main reason to complete this trail is to learn about the landscape and animals that inhabit the Snake Range. The land animals have been isolated from their kin for thousands of years and have taken on unique adaptations to deal with the harsh life in Great Basin, specifically the Snake Range. Brown Lake lies nearby but is not accessible by trail.
-<div align="center">[map style="width: auto; height:400px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Wheeler Peak - Great Basin NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Wheeler Peak - Great Basin NP.gpx"]</div>
 <h3><span style="text-decoration: underline;">Possible Itineraries for Winter Travel</span></h3>
 <h4>1 Night/2 Days</h4>
 <ul>

@@ -48,8 +48,8 @@ With morning light, we started our way down to the banks of the Colorado and thr
 [caption id="" align="aligncenter" width="397"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/a-grand-adventure-grand-canyon-national-park/grand_canyon-41.jpg" alt="grand_canyon-41.jpg" width="397" height="600" /> Ledges occasionally provided refuge from the rain.[/caption]
 
 Though the clouds dulled the brilliant colors of The Box, this portion of Bright Angel Canyon still had a certain charm.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/South Rim to Indian Gardens - Grand Canyon NP.gpx"]</div>
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Indian Gardens to Cottonwood - Grand Canyon NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/South Rim to Indian Gardens - Grand Canyon NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Indian Gardens to Cottonwood - Grand Canyon NP.gpx"]</div>
 &nbsp;
 <h2><strong>Cottonwood Campground to The North Rim Yurt</strong></h2>
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/a-grand-adventure-grand-canyon-national-park/grand_canyon-59.jpg" alt="grand_canyon-59.jpg" width="600" height="397" /> Cottonwood Camp[/caption]
@@ -69,12 +69,12 @@ The yurt, a round building with vinyl walls and a wood-burning stove was clean. 
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/a-grand-adventure-grand-canyon-national-park/grand_canyon-80.jpg" alt="grand_canyon-80.jpg" width="600" height="397" /> Warm by the fire.[/caption]
 
 The yurt provided a warm shelter from the brutal cold outside and we slept like babies. Tired babies. Babies wearing layers of very smelly clothing and bundled in burly sleeping bags.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Cottonwood to North Rim - Grand Canyon NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Cottonwood to North Rim - Grand Canyon NP.gpx"]</div>
 <h2><strong>The North Rim Yurt to Bright Angel Campground</strong></h2>
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/a-grand-adventure-grand-canyon-national-park/grand_canyon-84.jpg" alt="grand_canyon-84.jpg" width="600" height="397" /> Alien caviar or ice?[/caption]
 
 Though we wanted an early start, we couldn't bring ourselves to leave the yurt until after the sun peeked above the horizon. Though we were still postholing through the deep snow, going downhill and the footprints we left the previous night made the descent much easier. After stopping at Cottonwood to collect our tent and eat a relaxed lunch, we continued to Bright Angel Campground to spend the night on the banks of the Colorado.
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/North Rim to Bright Angel - Grand Canyon NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/North Rim to Bright Angel - Grand Canyon NP.gpx"]</div>
 <h2><strong>The South Kaibab Trail up to the South Rim</strong></h2>
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/a-grand-adventure-grand-canyon-national-park/grand_canyon-103.jpg" alt="grand_canyon-103.jpg" width="600" height="397" /> In a post-apocalyptic world...[/caption]
 
@@ -88,7 +88,7 @@ The North Kaibab Trail provided the best views of the entire trip and was worth 
 
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/a-grand-adventure-grand-canyon-national-park/grand_canyon-113.jpg" alt="grand_canyon-113.jpg" width="600" height="397" /> The ever-present clouds[/caption]
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Bright Angel to South Rim - Grand Canyon NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Bright Angel to South Rim - Grand Canyon NP.gpx"]</div>
 <h2><strong>Hiking along the South Rim</strong></h2>
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/a-grand-adventure-grand-canyon-national-park/grand_canyon-116.jpg" alt="grand_canyon-116.jpg" width="600" height="363" /> Nature's sculptures.[/caption]
 
@@ -100,5 +100,5 @@ Check out our tour of the <a title="Ruined – The Northern Arizona Pueblos" hre
 
 For more national park adventures, visit our <a title="National Park Service" href="http://destination-isolation.com/regional-guides/national-park-service/">National Park Service Guide</a>.
 <h2>The entire trip in 1 map:</h2>
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Rim-to-Rim-to-Rim - Grand Canyon NP.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Rim-to-Rim-to-Rim - Grand Canyon NP.gpx"]</div>
 <img class="ngg_displayed_gallery mceItem" src="http://destination-isolation.com/nextgen-attach_to_post/preview/id--4504" alt="" />

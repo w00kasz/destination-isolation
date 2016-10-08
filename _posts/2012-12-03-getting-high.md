@@ -60,7 +60,7 @@ poidb_access_key:
 [caption id="" align="aligncenter" width="600"]<img class="ngg-singlepic ngg-none " src="http://destination-isolation.com/wp-content/gallery/death-valley-november-2012-part-1/dv-nov-2012-pt_1-12.jpg" alt="DSC_0039.jpg" width="600" height="397" /> "Now if I can only get this thing started!"[/caption]
 <p style="text-align: left;"><strong>The terrain made the hike take longer than we expected</strong> and although we agreed to turn around at 2pm, we didn’t leave the smokestack until 2:45pm. With the short days this time of year, we knew we had to hurry to make it out of the canyon before night fall. We did not want to down-climb the waterfall in the dark.</p>
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Surprise Canyon and Panamint City.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Surprise Canyon and Panamint City.gpx"]</div>
 <h2 style="text-align: left;">Panamint Mountains and Telescope Peak</h2>
 <p style="text-align: left;">In the morning we broke camp and drove to the other side of the Panamint Mountains (Western wall of Death Valley) to tackle Telescope Peak. Though we brought our crampons and ice axes just in case, we felt it was a bit warm for ice and left them in the car. As we ascended <strong>1,000 meters (3,300 feet) over 10.5km (6.5mi)</strong> to the 3368 meter (11049 foot) peak, the highest in the Panamints and Death Valley NP, the trail crisscrossed between the two sides of the spine of the Panamints.<strong> The East side, baked in the sun</strong>, was hot while<strong> the shaded West was quite chilly</strong>. We ended up hitting several patches of ice at the switchbacks leading up to the summit. Nothing requiring crampons. We were glad we weren’t carrying the extra weight. Check trail conditions before heading up.</p>
 
@@ -71,7 +71,7 @@ poidb_access_key:
 <p style="text-align: left;">The ridge, as well as the summit offer amazing views of Death Valley to the East, Panamint Valley to the West, and even the snow covered peaks of the Sierra Nevada 160km (100mi) away. Signing the register and taking pictures of ourselves and Battie, now dubbed the Peak Bagging Bat, we headed down.</p>
 <p style="text-align: left;">Mohagoney Campground is located by the trailhead; it is free but offers no water, just a pit toilet, table, and fire pit. The campground is at 8,200 feet and can get very cold.</p>
 
-<div align="center">[map style="width: 70%; height:300px; margin:20px 0px 20px 0px; border: 1px solid black;" gpx="http://destination-isolation.com/wp-content/uploads/Telescope Peak.gpx"]</div>
+<div align="center">[sgpx gpx="/wp-content/uploads/Telescope Peak.gpx"]</div>
 <h3 style="text-align: left;">More Trip Reports from Death Valley National Park</h3>
 <ul>
 	<li><a title="Eureka Valley" href="http://destination-isolation.com/death-valley-eureka-dunes/">Eureka Valley</a></li>
